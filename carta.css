@@ -1,0 +1,32 @@
+.pergaminho{
+	
+}
+
+body {
+	background-image: url("https://i.pinimg.com/originals/5a/27/a9/5a27a9f8956c2db690e3341708cb0b87.gif");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	 }
+pre {
+	font-family: Brush Script MT, Brush Script Std, cursive;
+	font-size: 40px;
+  }
+ 
+ .texto {
+	position: absolute;
+	top: 15%;
+	left:-30%;
+	transition: translate(-50%, -50%);
+	text-align: left;
+ }
+ a {
+	position: absolute;
+	font-size:32px;
+	color: #000;
+	bottom:-70%;
+	right: 25%;
+ }
+img {
+	 width: 70%;
+}
