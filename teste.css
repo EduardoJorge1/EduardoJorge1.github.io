@@ -1,8 +1,7 @@
 body {
 	background-image: url("https://i.pinimg.com/originals/5a/27/a9/5a27a9f8956c2db690e3341708cb0b87.gif");
-	    background-size: 180%;
-        margin: 250px;
-		text-align: justify;
+	background-repeat: no-repeat;
+	background-size: 2500px;
 
 }
 
