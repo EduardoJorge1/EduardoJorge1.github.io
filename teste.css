@@ -1,0 +1,55 @@
+body {
+	background-image: url("https://i.pinimg.com/originals/5a/27/a9/5a27a9f8956c2db690e3341708cb0b87.gif");
+	background-repeat: no-repeat;
+	background-size: 2500px;
+
+}
+
+div {
+	position: absolute;
+	width: 200px;
+	height: 300px;
+	color: #000;
+	border: 1px;
+	padding: 100px;
+	margin: 300px;
+	left: -200px;
+	bottom: -50px;
+	}
+	
+	.conteudo{
+	    position: absolute;
+		width: 300px;   
+        height: 700px;
+        border: 1px ;
+		padding: 200px;
+		margin: 300px;
+		left: 50px;
+		bottom: -900px;
+		font-size: 20px;
+		text-align: left;
+}
+
+ .texto {
+	position: absolute;
+	top: 0px;
+	left:-760px;
+	transition: translate(-50%, -50%);
+	text-align: left;
+ }
+ pre {
+	font-family: Arial;
+	font-size: 40px;
+  }
+img {
+	width: 1000px;
+	background: background: url(https://i.imgur.com/rTrwsel.png) no-repeat center;
+}
+
+a {
+	position: absolute;
+	font-size:32px;
+	color: #000;
+	bottom:-550px;
+	right: 25%;
+}
